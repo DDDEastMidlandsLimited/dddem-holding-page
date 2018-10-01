@@ -14,12 +14,12 @@ body, html {
     font-size: 25px;
 }
 
-.minilogo{
-    width:300px;
-}
-
 .logo{
     width:450px;
+}
+
+.logodiv{
+    height: 300px;
 }
 
 .middle {
