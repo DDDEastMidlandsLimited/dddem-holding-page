@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://s3.eu-west-2.amazonaws.com/dddeastmidlands.com/ddd_avatar_400x400.jpg" width="30%"/>
+<img src="ddd_avatar_400x400.jpg" width="30%"/>
 </p>
 
 # DDD East Midlands Holding Page
