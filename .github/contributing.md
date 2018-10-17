@@ -42,7 +42,7 @@ First of all please do a search on the issues already present to see if it's an 
 | hard |Difficulty level: a lot of experience of the domain or language will be needed to pick this issue up |
 | insane | Difficulty level: you need to be a total wizard to figure this out |
 | enhancement | Making things better but without fixing an issue |
-| fix | Fixing a pre-existing problem with the code |
+| bug | Fixing a pre-existing problem with the code |
 
 
 ### Pull Requests
